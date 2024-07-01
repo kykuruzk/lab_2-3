@@ -1,0 +1,15 @@
+# ninja log v5
+4	1767	7415124145505506	CMakeFiles/lab2_3.dir/main.cpp.obj	84aa1a2f24da76f8
+2	409	7414591770797558	CMakeFiles/lab2_3.dir/classes/ComplexNumber.cpp.obj	22e060b20605da6
+19	410	7414591770817489	CMakeFiles/lab2_3.dir/classes/Students.cpp.obj	f09b665e7ff8f18a
+14	411	7414591770817489	CMakeFiles/lab2_3.dir/classes/Teachers.cpp.obj	2a75cec788526ffb
+28	1700	7414772372186533	CMakeFiles/lab2_3.dir/list_sequence/list_sequence.cpp.obj	f8826420cc3016a
+17	230	7414722938414453	CMakeFiles/lab2_3.dir/Checker/IndexOutOfRange.cpp.obj	b44aa7d758912234
+1768	1908	7415124146900839	lab2_3.exe	142a4629c104cd62
+32	410	7414722940228398	CMakeFiles/lab2_3.dir/linked_list/linked_list.cpp.obj	548cdeb8c3197eb2
+14	1471	7414802004220958	CMakeFiles/lab2_3.dir/Arrays/array_set.cpp.obj	e95bf75109b360ca
+4	534	7414722941464293	CMakeFiles/lab2_3.dir/classes/Chars.cpp.obj	da1594d417afedb5
+0	151	7415125215393050	build.ninja	a91aa53b294b4d8e
+20	1622	7414772371379234	CMakeFiles/lab2_3.dir/dynamic_array/dynamic_array.cpp.obj	bd1eb8e13200fcde
+16	1544	7414772370561967	CMakeFiles/lab2_3.dir/Arrays/array_sequence.cpp.obj	1f5c16c103229b62
+17	1184	7415119807692270	CMakeFiles/lab2_3.dir/Arrays/MutDynamicArray.cpp.obj	787856af489c6cb2
